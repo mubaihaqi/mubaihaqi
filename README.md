@@ -2,7 +2,6 @@
 
 ## 💫 About Me:
 🔭 I’m currently a student at Darussalam University, focusing on integrating AI in education through web-based solutions.
-👯 I’m looking to collaborate on software engineering projects — let’s build something impactful together!  
 🤝 I’m currently learning more about 3D optimization in app development and how to simplify code implementation.  
 💬 Ask me about web development — I’m pretty advanced in this field and always up for tech talks.  
 ⚡ Fun fact: I’m a private mentor at Sansen Academy and well-versed in school curriculum planning.
@@ -41,5 +40,5 @@
 ## 📊 GitHub Stats:
 
 ![mubaihaqi's Stats](https://github-readme-stats.vercel.app/api?username=mubaihaqi&theme=slateorange&show_icons=true&hide_border=false&count_private=true)
-![mubaihaqi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mubaihaqi&theme=slateorange&hide_border=false)
 ![mubaihaqi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mubaihaqi&theme=slateorange&show_icons=true&hide_border=false&layout=compact)
+![mubaihaqi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mubaihaqi&theme=slateorange&hide_border=false)
