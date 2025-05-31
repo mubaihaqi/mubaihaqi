@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FAA627&background=80643500&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Mubaihaqi!;Welcome+to+my+Github!;Let's+break+our+limits!)](https://git.io/typing-svg)
 
 ## 💫 About Me:
-🔭 I’m currently a student at Darussalam University, focusing on integrating AI in education through web-based solutions.
+
+🔭 I’m currently a student at Darussalam University, focusing on integrating AI in education through web-based solutions.<br>
+👯 I’m looking to collaborate on software engineering projects — let’s build something impactful together!  
 🤝 I’m currently learning more about 3D optimization in app development and how to simplify code implementation.  
 💬 Ask me about web development — I’m pretty advanced in this field and always up for tech talks.  
 ⚡ Fun fact: I’m a private mentor at Sansen Academy and well-versed in school curriculum planning.
