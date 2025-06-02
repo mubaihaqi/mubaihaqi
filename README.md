@@ -12,8 +12,9 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/haq_xgi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/umar-baihaqi)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/hjaeqss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=In&logoColor=white)](https://linkedin.com/in/umar-baihaqi)
+[![Threads](https://img.shields.io/badge/Threads-000000.svg?&style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@haq_xgi)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=X&logoColor=white)](https://x.com/hjaeqss)
 
 ---
 
