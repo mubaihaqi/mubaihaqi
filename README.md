@@ -33,6 +33,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=flat-square&logo=kotlin&logoColor=white)
+![XML](https://img.shields.io/badge/XML-%23e44d26.svg?&style=flat-square&logo=w3c&logoColor=white)
 ![FlutterFlow](https://img.shields.io/badge/flutterflow-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white)
 ![Spline](https://img.shields.io/badge/spline-%23000000.svg?&style=flat-square&logo=spline&logoColor=white)
