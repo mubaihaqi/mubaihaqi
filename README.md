@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-🔭 I’m currently a student at Darussalam University, focusing on integrating AI in education through web-based solutions.<br>
+🔭 I’m currently a self learner student, focusing on integrating AI in education through web-based solutions.<br>
 👯 I’m looking to collaborate on software engineering projects — let’s build something impactful together!  
 🤝 I’m currently learning more about 3D optimization in app development and how to simplify code implementation.  
 💬 Ask me about web development — I’m pretty advanced in this field and always up for tech talks.  
